@@ -54,6 +54,11 @@ Self-destructing messaging service. Messages are encrypted with AES-128 (via Fer
 
 **Tech Stack:** Python | FastAPI | async Redis | Cryptography | Docker
 
+### [CourseFlow](https://github.com/codenewbie09/courseflow)
+Distributed course enrollment engine designed for concurrency safety. Uses Redis sorted sets for priority arbitration (O(log N) insertion), an async allocation worker with SELECT FOR UPDATE row locks, and idempotency keys for at-most-once guarantees. Test suite validates linearizability, isolation, and capacity invariants under concurrent load.
+
+**Tech Stack:** Python | FastAPI | Redis | PostgreSQL | Docker | pytest
+
 ### [Video Game Addiction Predictor](https://github.com/codenewbie09/esports_game_addiction_predictor)
 Machine learning system predicting video game addiction levels using Steam platform data across 6,170 games. Trained and compared Random Forest (55% accuracy) and XGBoost models. Features an interactive Streamlit dashboard for real-time predictions.
 
