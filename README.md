@@ -1,60 +1,78 @@
-# Hi there, I'm Prateek Agrawal 👋
+# Hi there, I'm Prateek Agrawal
 
 <div align="center">
-  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-prateek--agrawal.vercel.app-blue?style=for-the-badge&logo=vercel)](https://prateek-agrawal.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prateek-agrawal-177671191)
 [![Email](https://img.shields.io/badge/Email-agraprats@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agraprats@gmail.com)
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-Software Engineering Intern @ HP | BTech CSE @ Shiv Nadar University (CGPA: 9.12/10) | Full-Stack Developer
+Software Engineering Intern at HP | BTech CSE at Shiv Nadar University (CGPA: 9.12/10) | Online Degree in Data Science at IIT Madras
 
-- 🔭 Currently working on building scalable web applications and improving system design skills
-- 🌱 Learning advanced DSA, system design, and cloud technologies (AWS, GCP)
-- 💼 Completed Software Engineering Internship at HP CPP Program (2025)
-- 🎯 Pursuing online degree in Data Science from IIT Madras
-- 👨‍💻 Passionate about solving real-world problems through code
-- 📫 Reach me at: agraprats@gmail.com
+- Building full-stack web applications and exploring AI/ML for real-world use cases
+- Focused on system design, clean architecture, and production-quality code
+- Previously interned at HP through the CPP Program (2025)
+- Reach me at: agraprats@gmail.com
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Python, TypeScript, JavaScript, Java, Lua, Shell, SQL
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Next.js (App Router), React, TypeScript, Tailwind CSS, HTML, CSS
 
 ### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Django, FastAPI, Node.js, REST API, Drizzle ORM
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+PostgreSQL, MySQL, MongoDB, Firebase, Redis, Neon
+
+### AI / ML
+scikit-learn, XGBoost, Streamlit, OpenCV, Groq API
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+Git, GitHub, Linux, Neovim, Docker, Vercel, Firebase
 
-## 📊 GitHub Stats
+## Featured Projects
+
+### [PitchPerfect](https://github.com/codenewbie09/pitchperfect)
+AI-powered sales roleplay training platform. Practice cold outreach against AI prospects that respond in-character based on persona, pain points, and difficulty level. Generates structured scorecards evaluating opener quality, qualification, objection handling, and closing technique. Built with ARCHITECTURE.md, data flow diagrams, and comprehensive test coverage.
+
+**Tech Stack:** Next.js 16 | React 19 | TypeScript | Drizzle ORM | PostgreSQL (Neon) | Groq API | Zod | Tailwind CSS | Vitest
+
+### [Pulse](https://github.com/codenewbie09/Pulse)
+Real-time network analysis engine that separates signal from noise in high-velocity data streams. Uses Count-Min Sketch (probabilistic data structure) for constant-memory frequency tracking and PageRank on directed graphs to distinguish high-volume spammers from true influencer nodes.
+
+**Tech Stack:** Python | NetworkX | mmh3 | Streamlit | NumPy
+
+### [GhostNote](https://github.com/codenewbie09/GhostNote)
+Self-destructing messaging service. Messages are encrypted with AES-128 (via Fernet), stored in Redis with configurable TTL, and atomically deleted on first read. Includes IP-based rate limiting and UUID-based access tokens.
+
+**Tech Stack:** Python | FastAPI | async Redis | Cryptography | Docker
+
+### [Video Game Addiction Predictor](https://github.com/codenewbie09/esports_game_addiction_predictor)
+Machine learning system predicting video game addiction levels using Steam platform data across 6,170 games. Trained and compared Random Forest (55% accuracy) and XGBoost models. Features an interactive Streamlit dashboard for real-time predictions.
+
+**Tech Stack:** Python | scikit-learn | XGBoost | Streamlit | Pandas | Matplotlib
+
+### [QR Attendance System](https://github.com/codenewbie09/attendance_system)
+QR code-based attendance management with Django and OpenCV. Generates dynamic QR codes, validates in real-time, and produces automated reporting.
+
+**Tech Stack:** Django | Python | OpenCV | PostgreSQL
+
+### [Inventory Management System](https://github.com/codenewbie09/Pantry-App)
+Full-stack inventory management with real-time tracking, Firebase authentication, and automated stock validation.
+
+**Tech Stack:** Next.js | Firebase | JavaScript
+
+## GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codenewbie09&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codenewbie09&layout=compact&theme=radical&hide_border=true)
@@ -63,51 +81,22 @@ Software Engineering Intern @ HP | BTech CSE @ Shiv Nadar University (CGPA: 9.12
 
 </div>
 
-## 🏆 Featured Projects
+## Education & Experience
 
-### 🎯 [QR Code Attendance Management System](https://github.com/codenewbie09/attendance_system)
-Smart attendance tracking with QR code generation and scanning using Django, Python, and OpenCV. Reduced manual workload by 80%.
+- BTech in Computer Science, Shiv Nadar University (2023-2027) | CGPA: 9.12/10
+- Online Degree in Data Science, IIT Madras (Ongoing)
+- Software Engineering Intern, HP CPP Program (2025)
 
-**Tech Stack:** Django | Python | OpenCV | PostgreSQL
+## Let's Connect
 
-### 💼 [Personal Portfolio Website](https://github.com/codenewbie09/portfolio)
-Responsive portfolio showcasing projects and skills with clean architecture and optimized performance.
-
-**Tech Stack:** React | JavaScript | CSS
-
-### 📦 [Inventory Management System](https://github.com/codenewbie09/Pantry-App)
-Full-stack web app with real-time inventory tracking, user authentication, and automated stock validation.
-
-**Tech Stack:** Next.js | Firebase | JavaScript
-
-## 🎓 Education & Experience
-
-- **BTech in Computer Science** - Shiv Nadar University (2023-2027) | CGPA: 9.12/10
-- **Software Engineering Intern** - HP CPP Program (2025)
-- **Online Degree in Data Science** - IIT Madras (Ongoing)
-
-## 📈 Current Focus
-
-- 🧠 Mastering Data Structures & Algorithms (LeetCode)
-- 🏗️ Learning System Design & Architecture
-- ☁️ Exploring Cloud Technologies (AWS, GCP)
-- 🤝 Contributing to Open Source Projects
-- 📝 Writing technical blogs and documentation
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 [LinkedIn](https://linkedin.com/in/prateek-agrawal-177671191)
-- 🌐 [Portfolio](https://prateek-agrawal.vercel.app)
-- 📧 [Email](mailto:agraprats@gmail.com)
+- LinkedIn: [linkedin.com/in/prateek-agrawal-177671191](https://linkedin.com/in/prateek-agrawal-177671191)
+- Portfolio: [prateek-agrawal.vercel.app](https://prateek-agrawal.vercel.app)
+- Email: agraprats@gmail.com
 
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=codenewbie09&color=blueviolet&style=for-the-badge)
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+![Profile Views](https://komarev.com/ghpvc/?username=codenewbie09&color=blueviolet&style=for-the-badge)
 
 </div>
