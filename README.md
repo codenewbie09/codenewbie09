@@ -10,11 +10,11 @@
 
 ## About Me
 
-Software Engineering Intern at HP | BTech CSE at Shiv Nadar University (CGPA: 9.12/10) | Online Degree in Data Science at IIT Madras
+Software Engineering Intern at HP | BTech CSE at Shiv Nadar University (CGPA: 9.17/10) | Online Degree in Data Science at IIT Madras
 
 - Building full-stack web applications and exploring AI/ML for real-world use cases
 - Focused on system design, clean architecture, and production-quality code
-- Previously interned at HP through the CPP Program (2025)
+- Previously interned at HP through the CPP Program (2026)
 - Reach me at: agraprats@gmail.com
 
 ## Tech Stack
@@ -78,9 +78,9 @@ Machine learning system predicting video game addiction levels using Steam platf
 
 ## Education & Experience
 
-- BTech in Computer Science, Shiv Nadar University (2023-2027) | CGPA: 9.12/10
+- BTech in Computer Science, Shiv Nadar University (2023-2027) | CGPA: 9.17/10
 - Online Degree in Data Science, IIT Madras (Ongoing)
-- Software Engineering Intern, HP CPP Program (2025)
+- Software Engineering Intern, HP CPP Program (2026)
 
 ## Let's Connect
 
