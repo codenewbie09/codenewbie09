@@ -64,16 +64,6 @@ Machine learning system predicting video game addiction levels using Steam platf
 
 **Tech Stack:** Python | scikit-learn | XGBoost | Streamlit | Pandas | Matplotlib
 
-### [QR Attendance System](https://github.com/codenewbie09/attendance_system)
-QR code-based attendance management with Django and OpenCV. Generates dynamic QR codes, validates in real-time, and produces automated reporting.
-
-**Tech Stack:** Django | Python | OpenCV | PostgreSQL
-
-### [Inventory Management System](https://github.com/codenewbie09/Pantry-App)
-Full-stack inventory management with real-time tracking, Firebase authentication, and automated stock validation.
-
-**Tech Stack:** Next.js | Firebase | JavaScript
-
 ## GitHub Stats
 
 <div align="center">
